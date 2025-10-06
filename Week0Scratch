@@ -1,0 +1,17 @@
+Foundations First: My CS50 Week 0 Dropper Build
+
+I’ve just begun a focused journey into cybersecurity and computer science, and I’m treating every assignment as a real step toward building projects that are useful, reliable, and ethical. This week I completed CS50x Week 0 and shipped a working Dropper game in Scratch for my first assignment.
+
+Lecture Learnings: 
+Computers are built from simple on/off decisions: bits and bytes that scale into everything we use. I revisited the importance of binary, learned why ASCII needed to become Unicode, and saw how images and video are just sequences of RGB bytes. The lecture also framed algorithms and pseudocode as the real tools for thinking clearly: functions, conditionals, loops, and boolean logic are how we plan solutions before we write code.
+
+Assignment Learnings: 
+The Dropper game forced me to practise event-driven design and robust state management. I fixed timing and collision bugs by centralising reset logic, adding simple debounce delays, and testing in small, repeatable loops. The result is a dependable prototype that behaves like a real product, not just a demo.
+
+What I’m trying to achieve 
+Short-term: complete CS50x with clear, public artifacts for every assignment. Medium-term: get into a cybersecurity university program. Long-term: build projects that solve real problems and demonstrate reliability, ethics, and impact. I’m documenting everything so mentors and reviewers can see both my process and progress.
+
+The assignment 
+Project: Scratch Dropper — player movement, falling obstacles, collision detection, scoring, and a central reset routine. Status: working prototype. Demo: https://lnkd.in/gyh2ywxk
+
+If anything here sparks advice or resources, I’d be grateful for a quick pointer. I’ll post weekly updates with new lessons, code snippets, and the assignments — follow along or reach out if you’d be open to mentoring or feedback. @dylanondefence across all platforms.
